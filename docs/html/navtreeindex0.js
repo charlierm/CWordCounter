@@ -1,0 +1,27 @@
+var NAVTREEINDEX0 =
+{
+"_word_counter_8h_source.html":[1,0,0,0,0,0],
+"annotated.html":[0,0],
+"classes.html":[0,1],
+"dir_80078c6d517cb50cfcde200aba89cd12.html":[1,0,0,0,0],
+"dir_96c61a9ea9df4ed42742d76e30343108.html":[1,0,0,0],
+"dir_e04ae2849dfa520b4ee2c9f7e9ff15de.html":[1,0,0],
+"files.html":[1,0],
+"functions.html":[0,2,0],
+"functions_vars.html":[0,2,1],
+"index.html":[],
+"pages.html":[],
+"struct_word.html":[0,0,0],
+"struct_word.html#acdb5da9ad1d6d2e20a470bd92a9a0ffe":[0,0,0,0],
+"struct_word.html#ad43c3812e6d13e0518d9f8b8f463ffcf":[0,0,0,1],
+"struct_word_list.html":[0,0,1],
+"struct_word_list.html#a53c57e8337828e123df6303285cd44a3":[0,0,1,8],
+"struct_word_list.html#a55748fbcc04f4b59c67544be7e2b4e34":[0,0,1,5],
+"struct_word_list.html#a5810b6407672b8e7aeba609b4bb649de":[0,0,1,7],
+"struct_word_list.html#a76d9b64d2ef60506148942015641d20d":[0,0,1,6],
+"struct_word_list.html#a810dff80bd9980a4bf2b695a23dc6304":[0,0,1,4],
+"struct_word_list.html#a9f59b34b1f25fe00023291b678246bcc":[0,0,1,3],
+"struct_word_list.html#ad55854451ade5557f16200d2e1938c89":[0,0,1,0],
+"struct_word_list.html#adffceba8eeb29d6fd4db090978f2384d":[0,0,1,1],
+"struct_word_list.html#aeaadd0a386c7d778e25aefa90a66e46f":[0,0,1,2]
+};
